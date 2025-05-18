@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Diego 👋</h1>
 
-<img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" height="180" align="right" />
+<img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" height="150" align="right" />
 
 <ul>
     <li>🎓 Second-year Computer Science student at the <a href="https://www.utec.edu.pe/">University of Engineering and Technology (UTEC)</a>.</li>
@@ -11,6 +11,13 @@
     <li>🌟 Continuously striving to learn new programming languages for versatility.</li>
     <li>🚀 Driven to expand my knowledge and improve as a developer.</li>
 </ul>
+
+<h2>Github Statistics 📈</h2>
+
+<div align="center">
+    <img src="https://streak-stats.demolab.com?user=dfigueroaw&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5" height="150" alt="streak graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dfigueroaw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true" height="150" alt="languages graph" />
+</div>
 
 <div align="center">
     <picture>
