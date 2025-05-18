@@ -12,4 +12,8 @@
     <li>🚀 Driven to expand my knowledge and improve as a developer.</li>
 </ul>
 
-<img src="https://raw.githubusercontent.com/dfigueroaw/dfigueroaw/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dfigueroaw/dfigueroaw/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/dfigueroaw/dfigueroaw/output/snake-light.svg" />
+  <img alt="GitHub contribution snake animation" src="https://github.com/dfigueroaw/dfigueroaw/output/snake-dark.svg" />
+</picture>

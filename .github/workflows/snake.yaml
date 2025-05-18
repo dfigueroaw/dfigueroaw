@@ -10,7 +10,7 @@ on:
 
 jobs:
   generate:
-    name: Generate Snake SVG
+    name: Generate Snake SVGs (dark and light)
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
@@ -18,21 +18,30 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate snake.svg
+      - name: Generate snake (dark)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: dfigueroaw
-          outputs: dist/snake.svg?palette=github-dark
+          outputs: dist/snake-dark.svg?palette=github-dark
 
-      - name: Verify snake.svg exists
-        run: test -f dist/snake.svg && echo "SVG generated!" || (echo "SVG not found!" && exit 1)
+      - name: Generate snake (light)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: dfigueroaw
+          outputs: dist/snake-light.svg?palette=github-light
 
-      - name: Push snake.svg to output branch
+      - name: Verify snake-dark.svg exists
+        run: test -f dist/dark-snake.svg && echo "Dark SVG generated!" || (echo "Dark SVG not found!" && exit 1)
+
+      - name: Verify snake-light.svg exists
+        run: test -f dist/light-snake.svg && echo "Light SVG generated!" || (echo "Light SVG not found!" && exit 1)
+
+      - name: Push snake SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
-          commit_message: "chore: update snake.svg"
+          commit_message: "chore: update snake-dark.svg and snake-light.svg"
           user_name: "DiegoBot"
           user_email: "41898282+github-actions[bot]@users.noreply.github.com"
         env:
