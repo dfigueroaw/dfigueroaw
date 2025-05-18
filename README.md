@@ -12,13 +12,12 @@
     <li>🚀 Driven to expand my knowledge and improve as a developer.</li>
 </ul>
 
-<h2>Programming Languages 👨🏻‍💻</h2>
-
 <img src="https://streak-stats.demolab.com?user=dfigueroaw&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=10" height="150" align="right" alt="streak graph"/>
 
 <div>
     <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
     <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cplusplus logo" />
+    <img src="https://skillicons.dev/icons?i=cs" height="50" alt="cshasrp logo" />
     <img src="https://skillicons.dev/icons?i=rust" height="50" alt="rust logo" />
     <img src="https://skillicons.dev/icons?i=go" height="50" alt="go logo" />
     <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo" />
@@ -32,6 +31,7 @@
     <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo" />
     <img src="https://skillicons.dev/icons?i=r" height="50" alt="r logo" />
     <img src="https://skillicons.dev/icons?i=matlab" height="50" alt="matlab logo" />
+    <img src="https://skillicons.dev/icons?i=latex" height="50" alt="latex logo" />
 </div>
 
 <div align="center">
