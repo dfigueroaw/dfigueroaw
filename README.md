@@ -29,6 +29,9 @@
     <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo" />
     <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo" />
     <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo" />
+    <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" />
+    <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo" />
+    <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo" />
     <img src="https://skillicons.dev/icons?i=r" height="50" alt="r logo" />
     <img src="https://skillicons.dev/icons?i=matlab" height="50" alt="matlab logo" />
     <img src="https://skillicons.dev/icons?i=latex" height="50" alt="latex logo" />
