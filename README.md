@@ -1,4 +1,8 @@
-## Hi there, I'm Diego 👋
+<h1 align="center">Hi there, I'm Diego 👋</h1>
+
+<p align="center">
+  <img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" height="200" align="right" />
+</p>
 
 - 🎓 Second-year Computer Science student at the [University of Engineering and Technology (UTEC)](https://www.utec.edu.pe/) in Peru.
 - 💻 Passionate about programming and mathematics, constantly exploring and learning in these fields.
