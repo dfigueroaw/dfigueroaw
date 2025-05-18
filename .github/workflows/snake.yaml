@@ -1,0 +1,39 @@
+name: Generate snake animation
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    name: Generate Snake SVG
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: dfigueroaw
+          outputs: dist/snake.svg?palette=github-dark
+
+      - name: Verify snake.svg exists
+        run: test -f dist/snake.svg && echo "SVG generated!" || (echo "SVG not found!" && exit 1)
+
+      - name: Push snake.svg to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "chore: update snake.svg"
+          user_name: "DiegoBot"
+          user_email: "41898282+github-actions[bot]@users.noreply.github.com"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -11,3 +11,5 @@
     <li>🌟 Continuously striving to learn new programming languages for versatility.</li>
     <li>🚀 Driven to expand my knowledge and improve as a developer.</li>
 </ul>
+
+<img src="https://raw.githubusercontent.com/dfigueroaw/dfigueroaw/output/snake.svg" alt="Snake animation" />
