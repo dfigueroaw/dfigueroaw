@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Diego 👋</h1>
 
-<img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" height="200" align="right" />
+<img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" height="180" align="right" />
 
 <ul>
     <li>🎓 Second-year Computer Science student at the <a href="https://www.utec.edu.pe/">University of Engineering and Technology (UTEC)</a>.</li>
