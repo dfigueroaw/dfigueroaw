@@ -22,13 +22,15 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: dfigueroaw
-          outputs: dist/snake-dark.svg?palette=github-dark
+          outputs: dist/snake-dark.svg
+          palette: github-dark
 
       - name: Generate snake (light)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: dfigueroaw
-          outputs: dist/snake-light.svg?palette=github-light
+          outputs: dist/snake-light.svg
+          palette: github-light
 
       - name: Verify snake-dark.svg exists
         run: test -f dist/dark-snake.svg && echo "Dark SVG generated!" || (echo "Dark SVG not found!" && exit 1)
