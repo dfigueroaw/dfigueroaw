@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Diego 👋</h1>
 
-<img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" height="160" align="right" alt="cat programming" />
+<img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" height="165" align="right" alt="cat programming" />
 
 <ul>
     <li>🎓 Second-year Computer Science student at the <a href="https://www.utec.edu.pe/">University of Engineering and Technology (UTEC)</a>.</li>
@@ -17,21 +17,21 @@
 <img src="https://streak-stats.demolab.com?user=dfigueroaw&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=10" height="150" align="right" alt="streak graph"/>
 
 <div>
-    <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
-    <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo" />
-    <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo" />
-    <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo" />
-    <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
-    <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
-    <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
-    <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo" />
-    <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo" />
-    <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo" />
-    <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
-    <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo" />
-    <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo" />
-    <img src="https://skillicons.dev/icons?i=r" height="60" alt="r logo" />
-    <img src="https://skillicons.dev/icons?i=matlab" height="60" alt="matlab logo" />
+    <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
+    <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cplusplus logo" />
+    <img src="https://skillicons.dev/icons?i=rust" height="50" alt="rust logo" />
+    <img src="https://skillicons.dev/icons?i=go" height="50" alt="go logo" />
+    <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo" />
+    <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
+    <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo" />
+    <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo" />
+    <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo" />
+    <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring logo" />
+    <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo" />
+    <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo" />
+    <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo" />
+    <img src="https://skillicons.dev/icons?i=r" height="50" alt="r logo" />
+    <img src="https://skillicons.dev/icons?i=matlab" height="50" alt="matlab logo" />
 </div>
 
 <div align="center">
