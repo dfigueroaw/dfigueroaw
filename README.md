@@ -3,7 +3,7 @@
 <img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" height="165" align="right" alt="cat programming" />
 
 <ul>
-    <li>🎓 Second-year Computer Science student at the <a href="https://www.utec.edu.pe/">University of Engineering and Technology (UTEC)</a>.</li>
+    <li>🎓 Third-year Computer Science student at the <a href="https://www.utec.edu.pe/">University of Engineering and Technology (UTEC)</a>.</li>
     <li>💻 Passionate about programming and mathematics, constantly exploring and learning in these fields.</li>
     <li>🎮 Enthusiastic about game development and always looking for new challenges.</li>
     <li>📊 Investigating computer graphics and artificial intelligence.</li>
